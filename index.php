@@ -1,5 +1,5 @@
 <?php
-spl_autoload_register();
+spl_autoload_register(); //Функция автоматического подключения файлов.
 
 
 
